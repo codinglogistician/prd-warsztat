@@ -1,0 +1,6 @@
+# Pliki, których git ma nie śledzić (więcej o tym pliku: sesja 6)
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+*.log
